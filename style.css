@@ -1,0 +1,55 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h6{
+    color: royalblue;
+    text-align: center;
+}
+img{
+    width: 50%;
+}
+button.red{
+    background-color: red;
+
+}
+button.blue{
+    background-color: #ff009d;
+}
+button.green{
+    background-color: green;
+}
+button.red:hover{
+    background-color: aqua;
+}
+
+button.blue:hower{
+    background-color: black;
+}
+button.green:hover{
+    background-color:greenyellow;
+}
+h2{
+    /* text-align: end;
+    text-align: center; */
+    text-align: ;
+}
+.images{
+    width: 10%;
+}
+.rule{
+    background-color: #ff009d;
+    width: 50%;
+}
+.rs{
+    text-align: center;
+}
+.imagess{
+    width: 20%;
+}
+.list{
+
+}
+.size{
+    width: 20%;
+}
